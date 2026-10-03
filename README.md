@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/api.jpg" alt="API REST em Go" width="100%">
+</p>
+
 # API Go CRUD
 
 Uma API RESTful completa para operações CRUD (Create, Read, Update, Delete) de usuários desenvolvida em Go.
